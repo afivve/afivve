@@ -4,7 +4,7 @@ Hi 👋 My name is Mochammad Nur ‘Afifudin
 * 🌍  I'm based in Banjarnegara, Central Java
 * ✉️  You can contact me at [afifdgr3@gmail.com]
 * 🚀  I'm college student in Universitas Sains Al-Qur’an
-* 🧠  Now I'm learning Laravel, VueJs
+* 🧠  Now I'm learning Laravel, NodeJS
 * ⚡  ok, Have a great idea, keep trust process and progress..
 
 <a href="https://www.github.com/afifdgr" target="_blank" rel="noreferrer"><img
@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/afifdgr?logo=github&style=for-the-b
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vuejs" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Nodejs" /></a>
 </p>
 
 
