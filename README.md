@@ -1,9 +1,7 @@
 Hi 👋 My name is Mochammad Nur Afifudin 
 ===============================
-I'am **Student** at [Universitas Sains Al-Qur'an](https://unsiq.ac.id/)
-I'm participant at [Bangkit 2023 by Google, Goto, Traveloka](https://www.dicoding.com/programs/bangkit)-Cloud Computing Learning Path
-
-If you would like to get to know me better, feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/mochammad-nur-afifudin-2b033617a/)"
+I'm participant at [Bangkit 2023 by Google, Goto, Traveloka](https://www.dicoding.com/programs/bangkit) - Cloud Computing Learning Path \
+If you would like to get to know me better, feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/mochammad-nur-afifudin-2b033617a/)
 
 "I am very interested in the field of backend development and enjoy every aspect of the job." 
 
