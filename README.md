@@ -1,4 +1,4 @@
-Hi 👋 My name is Mochammad Nur Afifudin 
+Hi there 👋 My name is Mochammad Nur Afifudin 
 ===============================
 Now I'm enjoying my journey as a backend engineer. I am always open to skill development related to the backend development field
 
