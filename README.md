@@ -1,11 +1,11 @@
 Hi 👋 My name is Mochammad Nur Afifudin 
 ===============================
-"I am very interested in the field of backend development and enjoy every aspect of the job." 
+Now I'm enjoying my journey as a backend engineer. I am always open to skill development related to the backend development field 😃
+#### Stats:
 
-If you would like to get to know me better, feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/mochammad-nur-afifudin-2b033617a/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=afifdgr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/afifdgr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=afifdgr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/afifdgr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifdgr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#### If you would like to get to know me better, feel free to connect with me on : 
+[![Linkedin Badge](https://img.shields.io/badge/-afivve-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afivve/)](https://www.linkedin.com/in/afivve/)
+[![Instragram Badge](https://img.shields.io/badge/-afivve-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/afivve/)](https://www.instagram.com/afivve/)
+[![Gmail Badge](https://img.shields.io/badge/-afivve@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:afivve@gmail.com)](mailto:afivve@gmail.com) 
