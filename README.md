@@ -1,6 +1,6 @@
 Hi 👋 My name is Mochammad Nur Afifudin 
 ===============================
-Now I'm enjoying my journey as a backend engineer. I am always open to skill development related to the backend development field 😃
+Now I'm enjoying my journey as a backend engineer. I am always open to skill development related to the backend development field
 #### Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afifdgr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
