@@ -10,7 +10,7 @@ Now I'm enjoying my journey as a backend engineer. I am always open to skill dev
 
 #### Stats :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=afifdgr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=afivve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 #### If you would like to get to know me better, feel free to connect with me on : 
 [![Linkedin Badge](https://img.shields.io/badge/-afivve-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afivve/)](https://www.linkedin.com/in/afivve/)
